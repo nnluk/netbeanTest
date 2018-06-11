@@ -1,6 +1,5 @@
 <div class="footer">
-hnjmtghtjty
-Asdasdasd
+ON9
 </div>
 </div>
 
