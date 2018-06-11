@@ -1,6 +1,5 @@
 <div class="footer">
-hnjmtghtjty
-Asdasdasd
+Git On99
 </div>
 </div>
 
