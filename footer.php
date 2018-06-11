@@ -1,5 +1,5 @@
 <div class="footer">
-ggggggggggggggg
+11/6/2018 16:00
 </div>
 </div>
 
