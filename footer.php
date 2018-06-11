@@ -1,5 +1,6 @@
 <div class="footer">
-11/6/2018 16:00
+hnjmtghtjty
+Asdasdasd
 </div>
 </div>
 
