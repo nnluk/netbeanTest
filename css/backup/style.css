@@ -1,0 +1,37 @@
+/*
+Error: Invalid CP950 character "\xE5"
+        on line 7 of C:\Users\Nelson\Documents\NetBeansProjects\Nelson\scss\style.scss
+
+2: To change this license header, choose License Headers in Project Properties.
+3: To change this template file, choose Tools | Templates
+4: and open the template in the editor.
+5: *\/
+6: /* 
+7:     Created on : 2018年6月15日, 下午04:56:06
+8:     Author     : Nelson
+9: *\/
+
+Backtrace:
+C:\Users\Nelson\Documents\NetBeansProjects\Nelson\scss\style.scss:7
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/util.rb:1043:in `rescue in block in find_encoding_error'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/util.rb:1040:in `block in find_encoding_error'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/util.rb:1039:in `each'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/util.rb:1039:in `each_with_index'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/util.rb:1039:in `find_encoding_error'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/util.rb:767:in `check_sass_encoding'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/engine.rb:444:in `check_encoding!'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/engine.rb:400:in `_to_tree'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/engine.rb:389:in `_render_with_sourcemap'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/engine.rb:307:in `render_with_sourcemap'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/exec/sass_scss.rb:391:in `run'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/exec/sass_scss.rb:63:in `process_result'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/exec/base.rb:52:in `parse'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib/sass/exec/base.rb:19:in `parse!'
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.6/bin/sass:13:in `<top (required)>'
+C:/Ruby24-x64/bin/sass:23:in `load'
+C:/Ruby24-x64/bin/sass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CP950 character \"\xE5\"\A         on line 7 of C:\Users\Nelson\Documents\NetBeansProjects\Nelson\scss\style.scss\A \A 2: To change this license header, choose License Headers in Project Properties.\A 3: To change this template file, choose Tools | Templates\A 4: and open the template in the editor.\A 5: */\A 6: /* \A 7:     Created on : 2018年6月15日, 下午04:56:06\A 8:     Author     : Nelson\A 9: */"; }
